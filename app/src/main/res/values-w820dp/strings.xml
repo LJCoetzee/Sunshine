@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max_tempString"><![CDATA[21&#8451;]]></string>
+    <string name="minTemp_string"><![CDATA[8&#8451;]]></string>
+</resources>
